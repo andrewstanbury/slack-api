@@ -1,0 +1,1 @@
+{"version":3,"file":"controller.js","sourceRoot":"","sources":["../../../src/blockKit/blocks/controller.ts"],"names":[],"mappings":";;;AAEA,MAAa,UAAU;IACZ,KAAK,CAAC,MAAW;QACpB,MAAM,WAAW,GAAiB,IAAI,CAAC,KAAK,CAAC,8CAA8C,CAAC,CAAC;QAE7F,OAAO,WAAW,CAAC;IACvB,CAAC;CACJ;AAND,gCAMC"}
